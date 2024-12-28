@@ -1,0 +1,4 @@
+#script to get server details
+#!/bin/bash
+echo "$(date)" >> /tmp/outputfile
+echo "$(hostname)" >> /tmp/outputfile
